@@ -11,6 +11,6 @@
 
 ### 一、页面设计 （概要图）
 
-![meta_chat_origin_design_01](/Users/zhengguochun/personal/metaChat/meta-chat/pics/meta_chat_origin_design_01.jpg)
+![meta_chat_origin_design_01](pics/meta_chat_origin_design_01.jpg)
 
-![meta_chat_origin_design_02](/Users/zhengguochun/personal/metaChat/meta-chat/pics/meta_chat_origin_design_02.jpg)
+![meta_chat_origin_design_02](pics/meta_chat_origin_design_02.jpg)
