@@ -14,3 +14,26 @@
 ![meta_chat_origin_design_01](./pics/meta_chat_origin_design_01.jpg)
 
 ![meta_chat_origin_design_02](./pics/meta_chat_origin_design_02.jpg)
+
+## 二、server端结构
+
+1、api
+
+2、biz
+
+3、domain
+
+4、config
+
+5、infrastructure - mapper
+
+6、dependency - third/second SDK
+
+
+
+
+
+
+
+
+
