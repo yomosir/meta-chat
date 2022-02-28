@@ -33,3 +33,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+./meta-chat-ios/meta-chat-ios.xcodeproj
+*.xcuserstate
