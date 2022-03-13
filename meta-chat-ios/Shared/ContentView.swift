@@ -1,6 +1,7 @@
 //
 //  ContentView.swift
 //  Shared
+// for practice of swiftUI from apple.com
 //
 //  Created by 郑国春 on 2022/2/19.
 //
