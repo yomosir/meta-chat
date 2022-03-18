@@ -11,6 +11,7 @@ var landmarks: [Landmark] = load("landmarkData.jsn")
 
 //声明一个方法，加载landmarkData.json中的数据
 //_（表示不是用别名） filename: String，返回一个Decodable对象
+// 修改包结构，进行app开发
 func load<T: Decodable>(_ filename: String) -> T {
     let data: Data
     // 学习一下guard的语法
