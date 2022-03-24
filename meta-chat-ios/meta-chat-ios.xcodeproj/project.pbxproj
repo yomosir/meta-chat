@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		421EE0BA27ECC5D900684591 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421EE0B927ECC5D900684591 /* main.swift */; };
+		421EE0BB27ECC5D900684591 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421EE0B927ECC5D900684591 /* main.swift */; };
 		429BBF0A27DF913F005D229E /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 429BBF0927DF913F005D229E /* ModelData.swift */; };
 		429BBF0B27DF913F005D229E /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 429BBF0927DF913F005D229E /* ModelData.swift */; };
 		429BBF0D27E8C653005D229E /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 429BBF0C27E8C653005D229E /* UserProfile.swift */; };
@@ -51,6 +53,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		421EE0B927ECC5D900684591 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		429BBF0927DF913F005D229E /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		429BBF0C27E8C653005D229E /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
 		429BBF0F27EA1A92005D229E /* UserProfileModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfileModelData.swift; sourceTree = "<group>"; };
@@ -128,6 +131,7 @@
 				429BBF0927DF913F005D229E /* ModelData.swift */,
 				429BBF0C27E8C653005D229E /* UserProfile.swift */,
 				429BBF0F27EA1A92005D229E /* UserProfileModelData.swift */,
+				421EE0B927ECC5D900684591 /* main.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -331,6 +335,7 @@
 			files = (
 				429BBF1027EA1A92005D229E /* UserProfileModelData.swift in Sources */,
 				42BAD35427C102D300AEBF83 /* ContentView.swift in Sources */,
+				421EE0BA27ECC5D900684591 /* main.swift in Sources */,
 				42BAD35227C102D300AEBF83 /* meta_chat_iosApp.swift in Sources */,
 				429BBF0D27E8C653005D229E /* UserProfile.swift in Sources */,
 				42B5956127D8FA7D0008141F /* MapView.swift in Sources */,
@@ -346,6 +351,7 @@
 			files = (
 				429BBF1127EA1A92005D229E /* UserProfileModelData.swift in Sources */,
 				42BAD35527C102D300AEBF83 /* ContentView.swift in Sources */,
+				421EE0BB27ECC5D900684591 /* main.swift in Sources */,
 				42BAD35327C102D300AEBF83 /* meta_chat_iosApp.swift in Sources */,
 				429BBF0E27E8C653005D229E /* UserProfile.swift in Sources */,
 				42B5956227D8FA7D0008141F /* MapView.swift in Sources */,
