@@ -33,6 +33,8 @@
 		42BAD35527C102D300AEBF83 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BAD32B27C102D200AEBF83 /* ContentView.swift */; };
 		42BAD35627C102D300AEBF83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42BAD32C27C102D300AEBF83 /* Assets.xcassets */; };
 		42BAD35727C102D300AEBF83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42BAD32C27C102D300AEBF83 /* Assets.xcassets */; };
+		42E4F69E27F0B478002606B6 /* mainController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E4F69D27F0B478002606B6 /* mainController.swift */; };
+		42E4F69F27F0B478002606B6 /* mainController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E4F69D27F0B478002606B6 /* mainController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -73,6 +75,7 @@
 		42BAD34A27C102D300AEBF83 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BAD34E27C102D300AEBF83 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		42BAD35027C102D300AEBF83 /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
+		42E4F69D27F0B478002606B6 /* mainController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mainController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +135,7 @@
 				429BBF0C27E8C653005D229E /* UserProfile.swift */,
 				429BBF0F27EA1A92005D229E /* UserProfileModelData.swift */,
 				421EE0B927ECC5D900684591 /* main.swift */,
+				42E4F69D27F0B478002606B6 /* mainController.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -341,6 +345,7 @@
 				42B5956127D8FA7D0008141F /* MapView.swift in Sources */,
 				42B5955B27D8FA7D0008141F /* CircleImage.swift in Sources */,
 				42B5955F27D8FA7D0008141F /* Landmark.swift in Sources */,
+				42E4F69E27F0B478002606B6 /* mainController.swift in Sources */,
 				429BBF0A27DF913F005D229E /* ModelData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -357,6 +362,7 @@
 				42B5956227D8FA7D0008141F /* MapView.swift in Sources */,
 				42B5955C27D8FA7D0008141F /* CircleImage.swift in Sources */,
 				42B5956027D8FA7D0008141F /* Landmark.swift in Sources */,
+				42E4F69F27F0B478002606B6 /* mainController.swift in Sources */,
 				429BBF0B27DF913F005D229E /* ModelData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
