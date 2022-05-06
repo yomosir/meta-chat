@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    name: defaultDataSource
+    url: jdbc:mysql://localhost:3306/meta_chat?serverTimezone=UTC
+    username: root
+    password: ZHENGguo@2020
+    driver-class-name: com.mysql.cj.jdbc.Driver

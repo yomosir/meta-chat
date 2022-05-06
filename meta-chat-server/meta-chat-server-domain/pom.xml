@@ -33,18 +33,22 @@
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+		</dependency>
 	</dependencies>
 
-	<build>
-		<pluginManagement>
-			<plugins>
-				<plugin>
-					<artifactId>maven-deploy-plugin</artifactId>
-					<configuration>
-						<skip>true</skip>
-					</configuration>
-				</plugin>
-			</plugins>
-		</pluginManagement>
-	</build>
+<!--	<build>-->
+<!--		<pluginManagement>-->
+<!--			<plugins>-->
+<!--				<plugin>-->
+<!--					<artifactId>maven-deploy-plugin</artifactId>-->
+<!--					<configuration>-->
+<!--						<skip>true</skip>-->
+<!--					</configuration>-->
+<!--				</plugin>-->
+<!--			</plugins>-->
+<!--		</pluginManagement>-->
+<!--	</build>-->
 </project>

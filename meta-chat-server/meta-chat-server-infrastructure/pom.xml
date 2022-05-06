@@ -45,5 +45,34 @@
 				</plugin>
 			</plugins>
 		</pluginManagement>
+		<plugins>
+			<plugin>
+				<groupId>org.mybatis.generator</groupId>
+				<artifactId>mybatis-generator-maven-plugin</artifactId>
+				<configuration>
+					<!--mybatis的代码生成器的配置文件-->
+					<configurationFile>src/main/resources/mybatis-generator-config.xml</configurationFile>
+					<!--允许覆盖生成的文件-->
+					<overwrite>true</overwrite>
+					<!--将当前pom的依赖项添加到生成器的类路径中-->
+					<includeCompileDependencies>true</includeCompileDependencies>
+				</configuration>
+				<executions>
+					<execution>
+						<id>Generate MyBatis Artifacts</id>
+						<goals>
+							<goal>generate</goal>
+						</goals>
+					</execution>
+				</executions>
+				<dependencies>
+					<dependency>
+						<groupId>org.mybatis.generator</groupId>
+						<artifactId>mybatis-generator-core</artifactId>
+						<version>1.4.1</version>
+					</dependency>
+				</dependencies>
+			</plugin>
+		</plugins>
 	</build>
 </project>
