@@ -1,7 +1,7 @@
 //
 //  mainController.swift
 //  meta-chat-ios
-// 主页面的逻辑文件
+// 主页面的逻辑文件，add.
 
 
 
